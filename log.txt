@@ -1,0 +1,681 @@
+[INIT]: cles cree.
+[INIT]: Segments de memoire partages cree.
+[INIT]: Semaphores cree.
+[INIT]: client numero 0 cree.
+[INIT]: client numero 1 cree.
+[INIT]: client numero 2 cree.
+[INIT]: client numero 3 cree.
+[INIT]: client numero 4 cree.
+[INIT]: client numero 5 cree.
+[INIT]: client numero 6 cree.
+[CLIENT0]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 7 cree.
+[CLIENT2]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT1]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT3]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 8 cree.
+[CLIENT4]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 9 cree.
+[CLIENT6]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT5]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 10 cree.
+[CLIENT7]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 11 cree.
+[CLIENT8]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 12 cree.
+[CLIENT9]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT10]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 13 cree.
+[CLIENT11]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT12]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 14 cree.
+[INIT]: client numero 15 cree.
+[CLIENT13]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 16 cree.
+[CLIENT14]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 17 cree.
+[INIT]: client numero 18 cree.
+[CLIENT15]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 19 cree.
+[CLIENT16]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT17]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 20 cree.
+[INIT]: client numero 21 cree.
+[CLIENT18]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT19]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 22 cree.
+[INIT]: client numero 23 cree.
+[CLIENT20]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 24 cree.
+[CLIENT21]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 25 cree.
+[CLIENT22]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 26 cree.
+[CLIENT23]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT24]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 27 cree.
+[CLIENT25]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 28 cree.
+[INIT]: client numero 29 cree.
+[CLIENT26]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 30 cree.
+[CLIENT27]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 31 cree.
+[INIT]: client numero 32 cree.
+[CLIENT28]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 33 cree.
+[CLIENT29]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 34 cree.
+[CLIENT30]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT31]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 35 cree.
+[CLIENT32]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 36 cree.
+[INIT]: client numero 37 cree.
+[CLIENT33]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 38 cree.
+[CLIENT34]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: client numero 39 cree.
+[CLIENT35]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 0 cree.
+[CLIENT36]: Hello world. J'attends maintenant le debut de la simulation.
+[CLIENT37]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 1 cree.
+[CLIENT38]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 2 cree.
+[INIT]: vendeur numero 3 cree.
+[CLIENT39]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 4 cree.
+[VENDEUR0]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 5 cree.
+[VENDEUR1]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 6 cree.
+[INIT]: vendeur numero 7 cree.
+[VENDEUR3]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 8 cree.
+[VENDEUR2]: Hello world. J'attends maintenant le debut de la simulation.
+[VENDEUR4]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 9 cree.
+[VENDEUR5]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 10 cree.
+[VENDEUR6]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 11 cree.
+[VENDEUR7]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 12 cree.
+[VENDEUR8]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 13 cree.
+[VENDEUR9]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: vendeur numero 14 cree.
+[VENDEUR10]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: caissier numero 0 cree.
+[INIT]: caissier numero 1 cree.
+[VENDEUR12]: Hello world. J'attends maintenant le debut de la simulation.
+[VENDEUR11]: Hello world. J'attends maintenant le debut de la simulation.
+[VENDEUR13]: Hello world. J'attends maintenant le debut de la simulation.
+[VENDEUR14]: Hello world. J'attends maintenant le debut de la simulation.
+[CAISSIER0]: Hello world. J'attends maintenant le debut de la simulation.
+[CAISSIER1]: Hello world. J'attends maintenant le debut de la simulation.
+[INIT]: La simulation va commencer..
+[INIT]: PID pour l'envoie du signal de fin: 6949
+
+[CLIENT0]: Je cherche le rayon 5.
+[CLIENT0]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT0]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[CLIENT1]: Je cherche le rayon 14.
+[CLIENT1]: Je me mets dans la file d'attente du vendeur 1.
+[VENDEUR0]: Je redirige le client sur le vendeur 8.
+[CLIENT1]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT2]: Je cherche le rayon 4.
+[CLIENT2]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT0]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT2]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 11.
+[CLIENT0]: J'ai trouvee le bon vendeur, c'est le vendeur 8, indice_sem 17. Je me met dans sa file d'attente
+[CLIENT0]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT3]: Je cherche le rayon 0.
+[CLIENT3]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT3]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT1]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT1]: J'ai trouvee le bon vendeur, c'est le vendeur 11, indice_sem 23. Je me met dans sa file d'attente
+[CLIENT1]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[VENDEUR8]: client detectee.
+[VENDEUR2]: Je redirige le client sur le vendeur 7.
+[CLIENT4]: Je cherche le rayon 11.
+[CLIENT4]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT4]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 10.
+[VENDEUR11]: client detectee.
+[CLIENT2]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT2]: J'ai trouvee le bon vendeur, c'est le vendeur 7, indice_sem 15. Je me met dans sa file d'attente
+[CLIENT2]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT5]: Je cherche le rayon 7.
+[CLIENT5]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT5]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[CLIENT3]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR1]: Je redirige le client sur le vendeur 13.
+[CLIENT3]: J'ai trouvee le bon vendeur, c'est le vendeur 10, indice_sem 21. Je me met dans sa file d'attente
+[CLIENT3]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR8]: Vente avec le client non effectuee.
+[CLIENT0]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT0]: Pas d'achat je sors du magasin.
+[CLIENT0]: Je meurs bye.
+[VENDEUR7]: client detectee.
+[CLIENT6]: Je cherche le rayon 1.
+[CLIENT6]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT6]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[VENDEUR2]: Je redirige le client sur le vendeur 9.
+[CLIENT4]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT4]: J'ai trouvee le bon vendeur, c'est le vendeur 13, indice_sem 27. Je me met dans sa file d'attente
+[CLIENT4]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR11]: Vente avec le client non effectuee.
+[VENDEUR10]: client detectee.
+[CLIENT1]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT1]: Pas d'achat je sors du magasin.
+[CLIENT1]: Je meurs bye.
+[CLIENT7]: Je cherche le rayon 4.
+[CLIENT7]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT7]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[CLIENT5]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR0]: Je redirige le client sur le vendeur 12.
+[VENDEUR13]: client detectee.
+[CLIENT5]: J'ai trouvee le bon vendeur, c'est le vendeur 9, indice_sem 19. Je me met dans sa file d'attente
+[CLIENT5]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR7]: Vente effectuee avec le client.
+[CLIENT2]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT2]: Je pars communiquer avec le caissier.
+[CLIENT2]: Infos envoyees au caissier num:2 prix:70.
+[CLIENT2]: Je meurs bye.
+[CAISSIER1]: Le client 2 a paye le prix 70 avec succes.
+[CLIENT8]: Je cherche le rayon 13.
+[CLIENT8]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT8]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT6]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT6]: J'ai trouvee le bon vendeur, c'est le vendeur 12, indice_sem 25. Je me met dans sa file d'attente
+[CLIENT6]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR10]: Vente effectuee avec le client.
+[CLIENT3]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT3]: Je pars communiquer avec le caissier.
+[CLIENT3]: Infos envoyees au caissier num:3 prix:96.
+[CLIENT3]: Je meurs bye.
+[CAISSIER0]: Le client 3 a paye le prix 96 avec succes.
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 7.
+[VENDEUR9]: client detectee.
+[CLIENT9]: Je cherche le rayon 2.
+[CLIENT9]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT9]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[VENDEUR12]: client detectee.
+[CLIENT7]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR13]: Vente avec le client non effectuee.
+[CLIENT7]: J'ai trouvee le bon vendeur, c'est le vendeur 7, indice_sem 15. Je me met dans sa file d'attente
+[CLIENT7]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT4]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT4]: Pas d'achat je sors du magasin.
+[CLIENT4]: Je meurs bye.
+[CLIENT10]: Je cherche le rayon 4.
+[CLIENT10]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT10]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 6.
+[VENDEUR9]: Vente effectuee avec le client.
+[VENDEUR7]: client detectee.
+[CLIENT5]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT5]: Je pars communiquer avec le caissier.
+[CLIENT5]: Infos envoyees au caissier num:5 prix:42.
+[CLIENT5]: Je meurs bye.
+[CAISSIER1]: Le client 5 a paye le prix 42 avec succes.
+[CLIENT11]: Je cherche le rayon 3.
+[CLIENT11]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT11]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 7.
+[CLIENT9]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT9]: J'ai trouvee le bon vendeur, c'est le vendeur 6, indice_sem 13. Je me met dans sa file d'attente
+[VENDEUR2]: Vente effectuee avec le client.
+[CLIENT9]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT8]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT8]: Je pars communiquer avec le caissier.
+[CLIENT8]: Infos envoyees au caissier num:8 prix:61.
+[CLIENT8]: Je meurs bye.
+[VENDEUR12]: Vente effectuee avec le client.
+[CAISSIER1]: Le client 8 a paye le prix 61 avec succes.
+[CLIENT6]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT6]: Je pars communiquer avec le caissier.
+[CLIENT6]: Infos envoyees au caissier num:6 prix:72.
+[CLIENT6]: Je meurs bye.
+[CAISSIER1]: Le client 6 a paye le prix 72 avec succes.
+[CLIENT12]: Je cherche le rayon 1.
+[CLIENT12]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT12]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 4.
+[CLIENT10]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT10]: J'ai trouvee le bon vendeur, c'est le vendeur 7, indice_sem 15. Je me met dans sa file d'attente
+[VENDEUR6]: client detectee.
+[VENDEUR7]: Vente avec le client non effectuee.
+[CLIENT7]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT7]: Pas d'achat je sors du magasin.
+[CLIENT7]: Je meurs bye.
+[CLIENT10]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT13]: Je cherche le rayon 6.
+[CLIENT13]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT13]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT11]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT11]: J'ai trouvee le bon vendeur, c'est le vendeur 4, indice_sem 9. Je me met dans sa file d'attente
+[CLIENT11]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 12.
+[VENDEUR7]: client detectee.
+[CLIENT14]: Je cherche le rayon 10.
+[CLIENT14]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT14]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT12]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 5.
+[CLIENT12]: J'ai trouvee le bon vendeur, c'est le vendeur 12, indice_sem 25. Je me met dans sa file d'attente
+[VENDEUR4]: client detectee.
+[CLIENT12]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR6]: Vente avec le client non effectuee.
+[CLIENT9]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT9]: Pas d'achat je sors du magasin.
+[CLIENT9]: Je meurs bye.
+[CLIENT15]: Je cherche le rayon 5.
+[CLIENT15]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT15]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[VENDEUR2]: Je redirige le client sur le vendeur 0.
+[CLIENT13]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT13]: J'ai trouvee le bon vendeur, c'est le vendeur 5, indice_sem 11. Je me met dans sa file d'attente
+[CLIENT13]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR12]: client detectee.
+[VENDEUR7]: Vente effectuee avec le client.
+[CLIENT10]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT10]: Je pars communiquer avec le caissier.
+[CLIENT10]: Infos envoyees au caissier num:10 prix:47.
+[CLIENT10]: Je meurs bye.
+[CAISSIER1]: Le client 10 a paye le prix 47 avec succes.
+[CLIENT16]: Je cherche le rayon 1.
+[CLIENT16]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT16]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 8.
+[CLIENT14]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT14]: J'ai trouvee le bon vendeur, c'est le vendeur 0, indice_sem 1. Je me met dans sa file d'attente
+[VENDEUR4]: Vente avec le client non effectuee.
+[CLIENT11]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR5]: client detectee.
+[CLIENT11]: Pas d'achat je sors du magasin.
+[CLIENT11]: Je meurs bye.
+[CLIENT17]: Je cherche le rayon 10.
+[CLIENT17]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT17]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT15]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR1]: client detectee.
+[VENDEUR12]: Vente avec le client non effectuee.
+[CLIENT14]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT15]: J'ai trouvee le bon vendeur, c'est le vendeur 8, indice_sem 17. Je me met dans sa file d'attente
+[CLIENT15]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: Je redirige le client sur le vendeur 12.
+[CLIENT12]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT12]: Pas d'achat je sors du magasin.
+[CLIENT12]: Je meurs bye.
+[CLIENT18]: Je cherche le rayon 8.
+[CLIENT18]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT18]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[CLIENT16]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR2]: Je redirige le client sur le vendeur 0.
+[CLIENT16]: J'ai trouvee le bon vendeur, c'est le vendeur 12, indice_sem 25. Je me met dans sa file d'attente
+[CLIENT16]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR5]: Vente avec le client non effectuee.
+[CLIENT13]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT13]: Pas d'achat je sors du magasin.
+[CLIENT13]: Je meurs bye.
+[VENDEUR0]: client detectee.
+[VENDEUR8]: client detectee.
+[CLIENT19]: Je cherche le rayon 3.
+[CLIENT19]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT19]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 14.
+[CLIENT17]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT17]: J'ai trouvee le bon vendeur, c'est le vendeur 0, indice_sem 1. Je me met dans sa file d'attente
+[VENDEUR12]: client detectee.
+[CLIENT20]: Je cherche le rayon 6.
+[CLIENT20]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT20]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 4.
+[CLIENT18]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT18]: J'ai trouvee le bon vendeur, c'est le vendeur 14, indice_sem 29. Je me met dans sa file d'attente
+[CLIENT18]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: Vente effectuee avec le client.
+[VENDEUR8]: Vente effectuee avec le client.
+[CLIENT14]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT15]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT14]: Je pars communiquer avec le caissier.
+[CLIENT17]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT15]: Je pars communiquer avec le caissier.
+[CLIENT14]: Infos envoyees au caissier num:14 prix:79.
+[CLIENT14]: Je meurs bye.
+[CLIENT15]: Infos envoyees au caissier num:15 prix:73.
+[CLIENT15]: Je meurs bye.
+[CAISSIER0]: Le client 15 a paye le prix 73 avec succes.
+[CAISSIER0]: Le client 15 a paye le prix 73 avec succes.
+[CLIENT21]: Je cherche le rayon 11.
+[CLIENT21]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT21]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[CLIENT19]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR2]: Je redirige le client sur le vendeur 5.
+[CLIENT19]: J'ai trouvee le bon vendeur, c'est le vendeur 4, indice_sem 9. Je me met dans sa file d'attente
+[CLIENT19]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR14]: client detectee.
+[VENDEUR12]: Vente avec le client non effectuee.
+[CLIENT16]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT16]: Pas d'achat je sors du magasin.
+[CLIENT16]: Je meurs bye.
+[VENDEUR0]: client detectee.
+[CLIENT22]: Je cherche le rayon 8.
+[CLIENT22]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT22]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 13.
+[CLIENT20]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT20]: J'ai trouvee le bon vendeur, c'est le vendeur 5, indice_sem 11. Je me met dans sa file d'attente
+[CLIENT20]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR4]: client detectee.
+[CLIENT23]: Je cherche le rayon 14.
+[CLIENT23]: Je me mets dans la file d'attente du vendeur 2.
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 14.
+[CLIENT23]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT21]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT21]: J'ai trouvee le bon vendeur, c'est le vendeur 13, indice_sem 27. Je me met dans sa file d'attente
+[CLIENT21]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR14]: Vente avec le client non effectuee.
+[VENDEUR5]: client detectee.
+[CLIENT18]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT18]: Pas d'achat je sors du magasin.
+[CLIENT18]: Je meurs bye.
+[VENDEUR0]: Vente effectuee avec le client.
+[CLIENT17]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT17]: Je pars communiquer avec le caissier.
+[CLIENT17]: Infos envoyees au caissier num:17 prix:87.
+[CLIENT17]: Je meurs bye.
+[CAISSIER0]: Le client 17 a paye le prix 87 avec succes.
+[CLIENT24]: Je cherche le rayon 1.
+[CLIENT24]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT24]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT22]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT22]: J'ai trouvee le bon vendeur, c'est le vendeur 14, indice_sem 29. Je me met dans sa file d'attente
+[CLIENT22]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: client detectee.
+[VENDEUR2]: Je redirige le client sur le vendeur 11.
+[VENDEUR13]: client detectee.
+[VENDEUR4]: Vente avec le client non effectuee.
+[CLIENT19]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT19]: Pas d'achat je sors du magasin.
+[CLIENT19]: Je meurs bye.
+[CLIENT25]: Je cherche le rayon 13.
+[CLIENT25]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT25]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 12.
+[VENDEUR14]: client detectee.
+[CLIENT23]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT23]: J'ai trouvee le bon vendeur, c'est le vendeur 11, indice_sem 23. Je me met dans sa file d'attente
+[CLIENT23]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR5]: Vente avec le client non effectuee.
+[CLIENT20]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT20]: Pas d'achat je sors du magasin.
+[CLIENT20]: Je meurs bye.
+[CLIENT26]: Je cherche le rayon 13.
+[CLIENT26]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT26]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 2.
+[CLIENT24]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT24]: J'ai trouvee le bon vendeur, c'est le vendeur 12, indice_sem 25. Je me met dans sa file d'attente
+[CLIENT24]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR13]: Vente effectuee avec le client.
+[CLIENT21]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR11]: client detectee.
+[CLIENT21]: Je pars communiquer avec le caissier.
+[CLIENT21]: Infos envoyees au caissier num:21 prix:48.
+[CLIENT21]: Je meurs bye.
+[CAISSIER0]: Le client 21 a paye le prix 48 avec succes.
+[CLIENT27]: Je cherche le rayon 5.
+[CLIENT27]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT27]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT25]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT25]: J'ai trouvee le bon vendeur, c'est le vendeur 2, indice_sem 5. Je me met dans sa file d'attente
+[VENDEUR2]: client detectee.
+[VENDEUR14]: Vente effectuee avec le client.
+[VENDEUR12]: client detectee.
+[CLIENT22]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT22]: Je pars communiquer avec le caissier.
+[CLIENT22]: Infos envoyees au caissier num:22 prix:60.
+[CLIENT22]: Je meurs bye.
+[CAISSIER0]: Le client 22 a paye le prix 60 avec succes.
+[CLIENT28]: Je cherche le rayon 4.
+[CLIENT28]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT28]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 8.
+[VENDEUR11]: Vente avec le client non effectuee.
+[CLIENT23]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT23]: Pas d'achat je sors du magasin.
+[CLIENT23]: Je meurs bye.
+[CLIENT29]: Je cherche le rayon 2.
+[CLIENT29]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT29]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 7.
+[CLIENT27]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT27]: J'ai trouvee le bon vendeur, c'est le vendeur 8, indice_sem 17. Je me met dans sa file d'attente
+[CLIENT27]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR12]: Vente avec le client non effectuee.
+[VENDEUR2]: Vente avec le client non effectuee.
+[CLIENT26]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT24]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT26]: Pas d'achat je sors du magasin.
+[CLIENT26]: Je meurs bye.
+[CLIENT24]: Pas d'achat je sors du magasin.
+[CLIENT24]: Je meurs bye.
+[CLIENT25]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT30]: Je cherche le rayon 13.
+[CLIENT30]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT30]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 6.
+[CLIENT28]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT28]: J'ai trouvee le bon vendeur, c'est le vendeur 7, indice_sem 15. Je me met dans sa file d'attente
+[CLIENT28]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR8]: client detectee.
+[VENDEUR2]: client detectee.
+[CLIENT31]: Je cherche le rayon 7.
+[CLIENT31]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT31]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 2.
+[CLIENT29]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT29]: J'ai trouvee le bon vendeur, c'est le vendeur 6, indice_sem 13. Je me met dans sa file d'attente
+[CLIENT29]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR7]: client detectee.
+[CLIENT32]: Je cherche le rayon 13.
+[CLIENT32]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT32]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 9.
+[CLIENT30]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT30]: J'ai trouvee le bon vendeur, c'est le vendeur 2, indice_sem 5. Je me met dans sa file d'attente
+[VENDEUR6]: client detectee.
+[VENDEUR8]: Vente avec le client non effectuee.
+[CLIENT27]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT27]: Pas d'achat je sors du magasin.
+[CLIENT27]: Je meurs bye.
+[VENDEUR2]: Vente avec le client non effectuee.
+[CLIENT25]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT25]: Pas d'achat je sors du magasin.
+[CLIENT25]: Je meurs bye.
+[CLIENT30]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT33]: Je cherche le rayon 6.
+[CLIENT33]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT33]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 2.
+[CLIENT31]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT31]: J'ai trouvee le bon vendeur, c'est le vendeur 9, indice_sem 19. Je me met dans sa file d'attente
+[CLIENT31]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR7]: Vente avec le client non effectuee.
+[CLIENT28]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT28]: Pas d'achat je sors du magasin.
+[CLIENT28]: Je meurs bye.
+[VENDEUR2]: client detectee.
+[CLIENT34]: Je cherche le rayon 2.
+[CLIENT34]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT34]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT32]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 5.
+[CLIENT32]: J'ai trouvee le bon vendeur, c'est le vendeur 2, indice_sem 5. Je me met dans sa file d'attente
+[VENDEUR9]: client detectee.
+[VENDEUR6]: Vente avec le client non effectuee.
+[CLIENT29]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT29]: Pas d'achat je sors du magasin.
+[CLIENT29]: Je meurs bye.
+[CLIENT35]: Je cherche le rayon 10.
+[CLIENT35]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT35]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR1]: client detectee.
+[VENDEUR1]: Je redirige le client sur le vendeur 6.
+[CLIENT33]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT33]: J'ai trouvee le bon vendeur, c'est le vendeur 5, indice_sem 11. Je me met dans sa file d'attente
+[CLIENT33]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR2]: Vente avec le client non effectuee.
+[CLIENT30]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT30]: Pas d'achat je sors du magasin.
+[CLIENT30]: Je meurs bye.
+[CLIENT32]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT36]: Je cherche le rayon 5.
+[CLIENT36]: Je me mets dans la file d'attente du vendeur 0.
+[CLIENT36]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 0.
+[CLIENT34]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT34]: J'ai trouvee le bon vendeur, c'est le vendeur 6, indice_sem 13. Je me met dans sa file d'attente
+[CLIENT34]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR5]: client detectee.
+[VENDEUR9]: Vente avec le client non effectuee.
+[CLIENT31]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT31]: Pas d'achat je sors du magasin.
+[CLIENT31]: Je meurs bye.
+[VENDEUR2]: client detectee.
+[CLIENT37]: Je cherche le rayon 7.
+[CLIENT37]: Je me mets dans la file d'attente du vendeur 1.
+[CLIENT37]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: client detectee.
+[VENDEUR0]: Je redirige le client sur le vendeur 8.
+[CLIENT35]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT35]: J'ai trouvee le bon vendeur, c'est le vendeur 0, indice_sem 1. Je me met dans sa file d'attente
+[VENDEUR6]: client detectee.
+[VENDEUR1]: client detectee.
+[CLIENT38]: Je cherche le rayon 3.
+[CLIENT38]: Je me mets dans la file d'attente du vendeur 3.
+[CLIENT36]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR1]: Je redirige le client sur le vendeur 9.
+[CLIENT38]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT36]: J'ai trouvee le bon vendeur, c'est le vendeur 8, indice_sem 17. Je me met dans sa file d'attente
+[CLIENT36]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT35]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR5]: Vente avec le client non effectuee.
+[CLIENT33]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT33]: Pas d'achat je sors du magasin.
+[CLIENT33]: Je meurs bye.
+[VENDEUR2]: Vente effectuee avec le client.
+[CLIENT32]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT32]: Je pars communiquer avec le caissier.
+[CLIENT32]: Infos envoyees au caissier num:32 prix:75.
+[CLIENT32]: Je meurs bye.
+[CAISSIER1]: Le client 32 a paye le prix 75 avec succes.
+[CLIENT39]: Je cherche le rayon 1.
+[CLIENT39]: Je me mets dans la file d'attente du vendeur 2.
+[CLIENT39]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT37]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT37]: J'ai trouvee le bon vendeur, c'est le vendeur 9, indice_sem 19. Je me met dans sa file d'attente
+[CLIENT37]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR3]: client detectee.
+[VENDEUR3]: Je redirige le client sur le vendeur 4.
+[VENDEUR8]: client detectee.
+[VENDEUR0]: client detectee.
+[VENDEUR6]: Vente effectuee avec le client.
+[CLIENT34]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT34]: Je pars communiquer avec le caissier.
+[CLIENT34]: Infos envoyees au caissier num:34 prix:47.
+[CLIENT34]: Je meurs bye.
+[CAISSIER1]: Le client 34 a paye le prix 47 avec succes.
+[CLIENT38]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR9]: client detectee.
+[VENDEUR2]: client detectee.
+[CLIENT38]: J'ai trouvee le bon vendeur, c'est le vendeur 4, indice_sem 9. Je me met dans sa file d'attente
+[VENDEUR2]: Je redirige le client sur le vendeur 12.
+[CLIENT38]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[VENDEUR0]: Vente avec le client non effectuee.
+[CLIENT39]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR8]: Vente avec le client non effectuee.
+[VENDEUR4]: client detectee.
+[CLIENT39]: J'ai trouvee le bon vendeur, c'est le vendeur 12, indice_sem 25. Je me met dans sa file d'attente
+[CLIENT36]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT39]: Communication avec le vendeur en cours, je met mon numero de rayon recherchee dans zone[0].
+[CLIENT36]: Pas d'achat je sors du magasin.
+[CLIENT35]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT36]: Je meurs bye.
+[CLIENT35]: Pas d'achat je sors du magasin.
+[CLIENT35]: Je meurs bye.
+[VENDEUR9]: Vente avec le client non effectuee.
+[CLIENT37]: Le vendeur m'a redonne la main, je lis sa reponse.
+[VENDEUR12]: client detectee.
+[CLIENT37]: Pas d'achat je sors du magasin.
+[CLIENT37]: Je meurs bye.
+[VENDEUR4]: Vente effectuee avec le client.
+[CLIENT38]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT38]: Je pars communiquer avec le caissier.
+[CLIENT38]: Infos envoyees au caissier num:38 prix:17.
+[CLIENT38]: Je meurs bye.
+[CAISSIER1]: Le client 38 a paye le prix 17 avec succes.
+[VENDEUR12]: Vente effectuee avec le client.
+[CLIENT39]: Le vendeur m'a redonne la main, je lis sa reponse.
+[CLIENT39]: Je pars communiquer avec le caissier.
+[CLIENT39]: Infos envoyees au caissier num:39 prix:97.
+[CLIENT39]: Je meurs bye.
+[CAISSIER1]: Le client 39 a paye le prix 97 avec succes.
+
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[CAISSIER]: SIGUSR2 recu, je meurs bye.
+[CAISSIER]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[INIT]: Segments de memoire partages detruit.
+[INIT]: Semaphores detruit.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[VENDEUR]: SIGUSR2 recu, je meurs bye.
+[INIT]: SIGUSR1 recu. Fin de la simulation.
