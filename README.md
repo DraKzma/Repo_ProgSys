@@ -2,7 +2,7 @@
 
 ## Le principe :
 
-On veut représenter une relation client, vendeur, caissier.  
+On veut représenter une relation client, vendeur, caissier .
 Dans notre programme, il y a autant de rayons que de vendeurs.  
 Lorsqu'un client entre, il se dirige vers le vendeur qui a la plus petite liste d'attente. Lorsque le client est géré par un vendeur, si celui-ci n'est pas dans le bon rayon, il est redirigé par le vendeur vers le bon rayon.
 

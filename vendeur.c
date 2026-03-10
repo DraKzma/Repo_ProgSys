@@ -19,7 +19,7 @@ void End(){
     }
     fprintf(fichier_log, "[VENDEUR]: SIGUSR2 recu, je meurs bye.\n");
     fclose(fichier_log);
-    printf("[VENDEUR]: SIGUSR2 recu, je meurs bye.\n");
+    printf("[VENDEUR]: SIGUSR2 recu, je meurs bye !\n");
     exit(EXIT_SUCCESS);
 }
 
